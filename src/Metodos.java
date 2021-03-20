@@ -3,6 +3,10 @@
  *
  */
 public class Metodos {
+    /**
+     *
+     * @return
+     */
 
     public static double calculoCirculo () {
         double PI=3.14;
@@ -13,6 +17,11 @@ public class Metodos {
 
 
     }
+
+    /**
+     *
+     * @return
+     */
     public static double calculoCuadrado() {
 
         int lado=5;
@@ -22,6 +31,11 @@ public class Metodos {
         return cuadrado;
 
     }
+
+    /**
+     * 
+     * @return
+     */
     public static double calculoTriangulo() {
 
         double base=5;
